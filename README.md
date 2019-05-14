@@ -1,14 +1,14 @@
-## SBU-DockerWS-97b
+# SBU-DockerWS-97b
 
 This repository is for Docker Workshop in May 2019
 
-# The Workshop videos : 
+## The Workshop videos : 
 
 https://drive.google.com/open?id=1J0q6hr0Yhq19XQy9FqhzhF0ztH4zAokP
 
 https://drive.google.com/open?id=12CmPoPt0F9NAneotvGyT7u5tceG30Si1
 
-# External Links :
+## External Links :
 
 https://speakerdeck.com/aminafshar/containers-and-docker
 
